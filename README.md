@@ -12,13 +12,19 @@ based functions , databases etc.
 Also this was a very interesting task given to me by Scorelab's.#GCI
 
 here are some screenshots:-
+
+
 ![alt text](https://image.ibb.co/kM39vR/open_function_dir.png "open function directory")
+
+
 open function directory
 
 
 
 
 ![alt text](https://preview.ibb.co/mxK4Um/index_jpg.png "open index.js")
+
+
 search and find index.js
 
 
@@ -26,6 +32,8 @@ search and find index.js
 
 
 ![alt text](https://image.ibb.co/dVYW9m/code.png "code index.js")
+
+
 code index.js (i use vs code)
 
 Happy coding! :-)
