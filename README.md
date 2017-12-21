@@ -1,5 +1,5 @@
 # firebase
-#H2
+Alt-H2
 My first cloud based function :-
 
 This is a firebased function which post's "Hello World" message to the users.
